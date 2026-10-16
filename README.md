@@ -1,5 +1,7 @@
 # ML Zoomcamp 2026 - Homework 4: Course Lead Scoring
 
+**Source:** [DataTalksClub ML Zoomcamp HW4](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/cohorts/2026/homework/04-evaluation/homework.md)
+
 ## Summary of Questions & Answers
 
 ---
